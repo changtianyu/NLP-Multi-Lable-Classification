@@ -1,2 +1,4 @@
 *.csv
 setup.ipynb
+data/
+Notes.txt
